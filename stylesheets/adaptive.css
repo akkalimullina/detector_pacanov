@@ -1,0 +1,349 @@
+@media screen and (max-width: 414px) {
+   
+    .animation-panel-section2 {
+        height: 40vw;
+    }
+    .animation-panel {
+        height: 40vw;
+    }
+
+    .Detector-rovnogo-pacana{
+        width: 94.2vw;
+        height: 46vw;
+        margin-left: 3vw;
+        margin-top: 3.46vw;
+    }
+    .section2-speedometr{
+    width: 87.28vw;
+    height: 24.8vw;
+    margin-top: -13.5vw;
+    margin-left: 3.46vw;
+    }
+    .section2-gradient {
+        transform: rotate(90deg);
+        margin-top: 28.8vw;
+        height: 68vw;
+        width: 9.7vw;
+        margin-left: -89.8vw;
+    }
+    .gradirntmark {
+        height: 1.4vw;
+        width: 4vw;
+    }
+    .text-speedometr{
+    font-size: 8vw;
+    margin-top: -1vw;
+    }
+    .speedmark {
+        height: 4vw;
+        width: 1.4vw;}
+    #speedmark1 {
+        margin-left: 30vw;
+    }
+    #speedmark2 {
+        margin-left: 43.66vw;}
+        #speedmark3 {
+            margin-left: 57vw;
+            margin-top: -4vw;}
+    .nidle {
+
+        margin-left: 37.5vw;}
+    .section2-MRT {
+        position: relative;
+        width: 16vw;
+        height: 10.4vw;
+        background-color: #000000;
+        margin-right: 3.8vw;
+        overflow: hidden;
+        margin-top: 28.5vw;
+    }
+    .inner-scrolling-text {
+        width: 94.2vw;  
+        margin-left: 3vw;
+        margin-top: 3vw;
+    }
+    .section-heels {
+        width: 94.2vw;
+        margin-top: 3vw;
+        height: 61vw;
+    margin-left: 3vw;
+    }
+    .crossovok-vocab-union {
+    width: 94.2vw;
+    display: block;
+}
+    .inner-crossovok {
+    width: 60vw;
+    margin-top: -66.5vw;
+    height: 60vw;
+    background-size: 180vw 60vw;
+    margin-left: 30vw;
+    }
+    @keyframes crossovok {
+    0% {background-position: 0}
+    100% {background-position: -180vw}
+    }
+    .level-1 {
+        margin-top: 11vw;
+    }
+    .level-2{
+    margin-top: 1vw;}
+    .level-3{
+        margin-top: 1vw;}
+    .text-level {
+        font-size: 8.5vw;
+        margin-left: 4vw;
+    }
+    .div-vibe {
+    height: 10vw;
+    width: 21vw;
+    }
+    .text-vibe {
+        white-space:nowrap;
+    font-size: 7vw;
+}
+    .h2-height-of-heels {
+        font-size: 5vw;
+        padding-top: 3vw;
+        margin-left: 3.46vw;
+    }
+    .vocabulary{
+        width: 94.2vw;
+        margin-top: 3vw;
+        height: 47vw;
+        margin-left: 3vw;
+    }
+        .box-words {
+        height: 6.88vw;
+    }
+    .words {
+        font-size: 5.54vw;
+    }
+    .size-boxword1 {
+        width: 26.93vw;
+    margin-left: -1vw;}
+    .size-boxword2 {
+        width: 11.79vw;
+        margin-left: 27.9vw;}
+    .section-gopniki {
+        width: 94.2vw;
+        margin-top: 100vw;
+        margin-left: 3vw;
+    }
+    .size-boxword3 {
+        width: 35.38vw;
+        margin-left: 23.09vw;
+    }
+    .size-boxword4 {
+        width: 20.64vw;
+        margin-left: 72.73vw;
+    }
+    .size-boxword5 {
+        width: 18.68vw;
+        margin-left: 65.06vw;
+    }
+    .size-boxword6 {
+        width: 18.67vw;
+        margin-left: 10.16vw;
+    }
+    .size-boxword7 {
+        width: 15.72vw;
+        margin-left: 2.3vw;}
+    .size-boxword8 {
+        width: 19.66vw;
+        margin-left: 52.49vw;
+    }
+    .size-boxword9 {
+        width: 27.52vw;
+        margin-left: 22.31vw;}
+    .size-boxword10 {
+        width: 20.64vw;
+        margin-left: 70.38vw}
+    .size-boxword11 {
+        width: 22.3vw;
+        margin-left: 69.8vw;
+    }
+    .size-boxword12 {
+        width: 22.3vw;
+        margin-left: 38.2vw;
+    }
+    .size-boxword13 {
+        width: 26.83vw;
+        margin-left: 0.06vw;}
+    .size-boxword14 {
+        width: 18.09vw;
+        margin-left: 54vw;}
+    .size-boxword15 {
+        width: 15.73vw;
+        margin-left: 27.76vw;}
+   .prikid {
+    display: none;
+   }
+   .men {
+    width: 19.9vw;
+    margin-top: 5vw;
+    animation: jump 2s infinite;
+   }
+   @keyframes jump {
+    0%   
+    { transform: scale(1,1) translateY(0); }
+    10%  
+    { transform: scale(1.28,.7) translateY(0); }
+    30% {
+    transform: scale(1, 1.1) translateY(-59px);}
+    50%  
+  { transform: scale(.95,.95) translateY(0); }
+  57% 
+   { transform: scale(1,1) translateY(-7px); }
+  64%  
+  { transform: scale(1,1) translateY(0); }
+  100% 
+  { transform: scale(1,1) translateY(0); }
+}
+.men2 {
+    animation-delay: 1s;
+  }
+  .men3 {
+    animation-delay: 3.5s;
+  }
+  .men4 {
+    animation-delay: 2.5s;
+  }
+  .speed-carheight-union{
+    width: 94.2vw;
+    display: block;
+  }
+  .average-speed {
+    width: 94.2vw;
+    margin-left: 3vw;
+    margin-top: 3vw;
+    height: 55.2vw;
+  }
+  .nidle2 {
+    top: -8vw;
+    margin-left: 32.3vw;
+    width: 15VW;
+    height: 1vw;
+  }
+  .section-tachki {
+    margin-top: 79.46vw;
+}
+  .average-text {
+    font-size: 8.8vw;
+  }
+  .speed-numbers {
+    font-size: 7.5vw;
+  }
+  .speed0 {
+    margin-left: 8.46vw;
+    margin-top: 29vw;}
+.speed60 {
+    margin-left: 18.8vw;
+    margin-top: -24vw;
+}
+.speed120 {
+    margin-left: 43.7vw;
+    margin-top: -18vw;
+}
+.speed160 {
+    margin-left: 67.1vw;
+    margin-top: 2.9vw;
+}
+.speed270 {
+    margin-left: 78.4vw;
+    margin-top: 10vw;
+}
+.soplyak {
+    margin-left: 13.2vw;
+    margin-top: 0.5vw;
+}
+.horosh {
+    margin-left: 64vw;
+    margin-top: -9vw;
+}
+.car-height {
+    margin-top: 3.4vw;
+    margin-left: 3vw;
+    width: 94.2vw;
+    height: 47.2vw;
+}
+.car-body {
+    width: 68.5vw;
+    animation: carbody 3s ease infinite;
+    left: 21vw;
+    top: 2vw
+}
+@keyframes carbody {
+    0%, 100% {
+        top: -31vw;
+    }
+    50% {
+        top: -15vw;
+    }
+}
+.carslevel-2, .carslevel-3 {
+    margin-top: 1.08vw;
+}
+.wheel{
+    width: 20vw;
+    height: 27.4vw;
+}
+.wheel1 {
+    margin-left: 29.3vw;
+    top: -36.2vw;
+}
+.wheel2 {
+    margin-left: 60vw;
+    top: -64.2vw;}
+.text-level2 {
+    font-size: 6.5vw;
+    margin-left: 4vw;
+}
+.tachki {
+    margin-top: 3vw;
+}
+.section-tachki {
+    margin-top: 86.46vw;
+    width: 94.2vw;
+    margin-left: 3vw;
+    height: 40vw;
+}
+.tachka {
+    margin-top: 5vw;
+    width: 104vw;
+    height: 33vw;
+    background-size: 306vw 926vw;
+    animation: tachka 6s steps(3) infinite;
+}
+@keyframes tachka {
+    0% {background-position: -56vw;}
+    50% {background-position: -200vw;}
+      100% {background-position: -56vw; }
+  }
+  .inner-scrolling-text2 { 
+    width: 94.2vw;
+    height: 23vw;
+    margin-left: 3vw;
+    margin-top: 3.5vw;
+}
+#sec-footer {
+    height: 9vw;
+
+.footer {
+    width: 94.2vw;
+    height: 6vw;
+    margin-left: 3vw;
+    margin-top: 3vw;
+}
+.footer-text {
+    font-size: 2.8vw;
+}
+.inner-footer {
+    margin-top: 0vw;
+    width: 90vw;
+    height: 7vw;
+}
+}
+
+}
+

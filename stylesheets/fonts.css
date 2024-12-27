@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "DAMN";
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/DAMN.ttf') format('truetype');
+  }
+
+@font-face {
+  font-family: "Druk Wide Cyr";
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Druk-Wide-Cyr-Heavy.otf') format('opentype');
+}
+@font-face {
+  font-family: "Defectica";
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Defectica.otf') format('opentype');
+}
+@font-face {
+  font-family: "Heading Pro Trial";
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Heading-Pro-Book-trial.ttf') format('truetype');
+}
